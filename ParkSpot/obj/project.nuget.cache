@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1vQj8xL3UGoztsS3IIp2c9pBIobtOUn5xKBo/4PHXmwlMbiYKQyJsYh9feSVW1xEqBy/IcQpbbwtjDiMosZwg==",
+  "success": true,
+  "projectFilePath": "C:\\GitRepos\\ParkSpot\\ParkSpot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xsbhaskaran\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.15.1\\microsoft.ml.onnxruntime.1.15.1.nupkg.sha512",
+    "C:\\Users\\xsbhaskaran\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.15.1\\microsoft.ml.onnxruntime.managed.1.15.1.nupkg.sha512",
+    "C:\\Users\\xsbhaskaran\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\sixlabors.fonts.1.0.0-beta18.nupkg.sha512",
+    "C:\\Users\\xsbhaskaran\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "C:\\Users\\xsbhaskaran\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0-beta15\\sixlabors.imagesharp.drawing.1.0.0-beta15.nupkg.sha512",
+    "C:\\Users\\xsbhaskaran\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\xsbhaskaran\\.nuget\\packages\\yolov8.net\\1.1.0\\yolov8.net.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
